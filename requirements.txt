@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain_community
+langchain_aws
+openai
+boto3
+python-dotenv
+sqlite3
+markdown
+tempfile
+jsonschema
+re
